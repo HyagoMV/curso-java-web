@@ -18,5 +18,6 @@ Java com foco nos seguintes itens:
 * Primafaces JSF 2.0
 
 
-AA
-=
+```puml
+A -> B
+```
