@@ -18,6 +18,6 @@ Java com foco nos seguintes itens:
 * Primafaces JSF 2.0
 
 
-```puml
-A -> B
-```
+@startuml
+a->B
+@enduml
